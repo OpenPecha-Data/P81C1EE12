@@ -1,0 +1,41 @@
+id: P81C1EE12
+initial_creation_type: input
+source_metadata:
+  title: History Series
+  language: bo
+  description: 'Translations of various works on history (lo rgyus) including royal
+    genealogies (rgyal rabs):'
+  volume:
+    cb0d81c5da7d425e9993139dccc09369:
+      title: A Concise History of Orgyen Padma’s Enlightened Deeds
+      parent: Biography
+    e07c6db8ef1f498e9c91efb1053f29d5:
+      title: How Our Supreme Teacher Generated Bodhicitta and Other Topics
+      parent: Buddha’s Lives
+    4169fc2005744c37877e1543e23180e1:
+      title: A Brief History of the Lakar Family
+      parent: Family History
+    9d8b9d867f66424d9b8c3d7e616578cd:
+      title: A History of Dzongsar Monastery
+      parent: Institutions
+    60fd0386513a49b3af157f7ced5d2223:
+      title: The History of the Hearing Lineage of the Profound and Secret Practice
+        of Siṃhamukhā
+      parent: Practice Origins
+    0b909c74ec7b450c9a7af6efdee2b76b:
+      title: The History of the Female Practice of the Queen of Great Bliss
+      parent: Practice Origins
+    c6d07c7fe3874304a30d3feb8e91ab0a:
+      title: Genealogy of the Dharma Kings of Derge
+      parent: Royal Genealogies
+    0853c3b1d1654d61b76856f0cd9e0520:
+      title: Royal Genealogy of Sikkim
+      parent: Royal Genealogies
+    9adfce43b45e42e1a33fcc58a857146b:
+      title: 'Liberation Upon Hearing: The History of the Great Jarung Kashor Stūpa'
+      parent: Sacred Places
+    e6eb69ee98fb4c01a7a52d482af023e9:
+      title: A Brief History of the Sacred Image of White Tārā
+      parent: Sacred Places
+created_at: '2022-03-01T03:57:42.012737'
+last_modified_at: '2022-03-01T03:57:42.012740'
