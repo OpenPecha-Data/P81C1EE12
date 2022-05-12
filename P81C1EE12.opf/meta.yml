@@ -39,3 +39,8 @@ source_metadata:
       parent: Sacred Places
 created_at: '2022-03-01T03:57:42.012737'
 last_modified_at: '2022-03-01T03:57:42.012740'
+statistics:
+  total_words: 23678
+  total_non_words: 2352
+quality:
+  non_words_ratio: 0.1
